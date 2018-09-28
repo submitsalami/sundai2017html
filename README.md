@@ -1,1 +1,1 @@
-# sundai2017html
+# Sundai Java 2018 repository 
